@@ -1,2 +1,2 @@
 # tp-plantilla-inicial
-Se movio a node
+Repositario finalizado, se usara node
